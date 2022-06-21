@@ -830,7 +830,7 @@ def find_anagrams(word, dictionary):
 - For classes: Document behavior, important attributes, and subclass behavior in the docstring following the class statement. 
 - For functions and methods: Document every argument, returned value, raised exception, and other behaviors in the docstring following the def statement.
 
-### **Item 50: Use Packages to Organize Modules and Provide** **Stable APIs** (大哥背起了行囊)
+## **Item 50: Use Packages to Organize Modules and Provide** **Stable APIs** (大哥背起了行囊)
 
 pass
 
